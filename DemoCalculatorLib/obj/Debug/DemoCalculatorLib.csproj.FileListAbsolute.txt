@@ -1,0 +1,11 @@
+C:\Users\timur\source\repos\DemoCalculatorLib\bin\Debug\DemoCalculatorLib.exe.config
+C:\Users\timur\source\repos\DemoCalculatorLib\bin\Debug\DemoCalculatorLib.exe
+C:\Users\timur\source\repos\DemoCalculatorLib\bin\Debug\DemoCalculatorLib.pdb
+C:\Users\timur\source\repos\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.csproj.AssemblyReference.cache
+C:\Users\timur\source\repos\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.csproj.SuggestedBindingRedirects.cache
+C:\Users\timur\source\repos\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.Form1.resources
+C:\Users\timur\source\repos\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.Properties.Resources.resources
+C:\Users\timur\source\repos\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.csproj.GenerateResource.cache
+C:\Users\timur\source\repos\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\timur\source\repos\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.exe
+C:\Users\timur\source\repos\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.pdb
